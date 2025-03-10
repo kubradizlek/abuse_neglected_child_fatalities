@@ -17,3 +17,44 @@ As we approach April, I want to draw attention to the impact of abuse- and negle
 The data for this analysis comes from the Texas Open Data Portal, It provides information on child fatalities in Texas from 2015 to 2024 that are linked to abuse and neglect. The dataset includes key details such as fiscal year, county, region, program involvement, demographics, and fatality counts.  
 
 The original dataset can be accessed **[here](https://data.texas.gov/dataset/OCS-1-1-Abuse-Neglect-Related-Texas-Child-Fataliti/92um-beyd/about_data)**.  
+
+# The Questions
+
+Below are the questions I want to answer in my project:
+
+1. What are the skills most in demand for the top 3 most popular data roles?
+2. How are in-demand skills trending for Data Analysts?
+3. How well do jobs and skills pay for Data Analysts?
+4. What are the optimal skills for data analysts to learn? (High Demand AND High Paying) 
+
+# Tools I Used
+
+
+For this analysis of abuse- and neglect-related child fatalities, several key tools and techniques were used to process.
+
+- **Python:** The backbone of my analysis, allowing me to analyze the data and find critical insights.I also used the following Python libraries:
+    - **Pandas Library:** This was used to analyze the data. 
+    - **Matplotlib Library:** I visualized the data.
+    - **Seaborn Library:** Helped me create more advanced visuals. 
+- **Jupyter Notebooks:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
+- **Visual Studio Code:** My go-to for executing my Python scripts.
+- **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+
+## Data Import, Exploration, and Cleaning  
+
+
+I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
+
+View my notebook with detailed steps here:
+
+```python
+# Importing Libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Loading Data
+df=pd.read_csv('/Users/kubra/Desktop/Pyhton/python projects /abuse_neglected_child_fatalities /OCS_1.1___Abuse_Neglect_Related_Texas_Child_Fatalities_FY2015-FY2024.csv')
+
+
+```
