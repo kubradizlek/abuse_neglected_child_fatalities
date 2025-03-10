@@ -11,7 +11,3 @@ Every year, April is recognized as National Child Abuse Prevention Month in the 
 The loss of a child is always heartbreaking, but when it happens due to abuse or neglect, it is even more painful because it was preventable. Addressing this issue requires more than just reacting to crises—it demands proactive solutions, stronger community support, and increased awareness to protect children before harm occurs.  
 
 As we approach April, I want to draw attention to the impact of abuse- and neglect-related child fatalities. In this project, I aim to provide a data-driven overview of child fatalities due to abuse and neglect in Texas between 2015 and 2024. By analyzing these numbers, I hope to raise awareness and contribute to discussions on improving child safety and prevention strategies.  
-
-
-
-![image](https://github.com/user-attachments/assets/403fafce-f9ce-4b11-8398-e6582462a214)
