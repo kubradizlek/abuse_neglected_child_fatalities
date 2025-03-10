@@ -3,7 +3,7 @@
 
 # Abuse & Neglect-Related Child Fatalities in Texas: A Python Data Analysis  
 
-## 📌 Overview  
+##  Overview  
 
 Every year, April is recognized as National Child Abuse Prevention Month in the United States. It serves as a reminder of the devastating reality that hundreds of children lose their lives each year due to abuse and neglect—lives that could have been saved. Behind these numbers are real children who should have had the chance to grow up safe, loved, and protected.  
 
