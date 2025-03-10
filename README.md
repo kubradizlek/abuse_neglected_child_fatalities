@@ -45,7 +45,8 @@ For this analysis of abuse- and neglect-related child fatalities, several key to
 
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
 
-View my notebook with detailed steps here:
+View my notebook with detailed steps here: **[1.EDA_and_cleaning.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/1.EDA_and_cleaning.ipynb)**  
+
 
 ```python
 # Importing Libraries
