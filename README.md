@@ -18,7 +18,7 @@ The data for this analysis comes from the Texas Open Data Portal, It provides in
 
 The original dataset can be accessed **[here](https://data.texas.gov/dataset/OCS-1-1-Abuse-Neglect-Related-Texas-Child-Fataliti/92um-beyd/about_data)**.  
 
-# The Questions
+## The Questions
 
 Below are the questions I want to answer in my project:
 
@@ -27,7 +27,7 @@ Below are the questions I want to answer in my project:
 3. How well do jobs and skills pay for Data Analysts?
 4. What are the optimal skills for data analysts to learn? (High Demand AND High Paying) 
 
-# Tools I Used
+## Tools I Used
 
 
 For this analysis of abuse- and neglect-related child fatalities, several key tools and techniques were used to process.
