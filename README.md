@@ -40,7 +40,7 @@ For this analysis of abuse- and neglect-related child fatalities, several key to
 - **Visual Studio Code:** My go-to for executing my Python scripts.
 - **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
 
-## Data Import, Exploration, and Cleaning  
+# Data Import, Exploration, and Cleaning  
 
 
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
