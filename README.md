@@ -1,3 +1,5 @@
+
+![image](https://github.com/user-attachments/assets/c93b00a0-3294-4599-881f-d42066925dd3)
 # Abuse & Neglect-Related Child Fatalities in Texas: A Python Data Analysis  
 
 ## 📌 Overview  
