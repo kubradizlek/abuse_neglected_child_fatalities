@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/4d92198e-a03e-4b3a-befd-4496cdef48fa)
-![image](https://github.com/user-attachments/assets/403fafce-f9ce-4b11-8398-e6582462a214)
+
 
 
 # Abuse & Neglect-Related Child Fatalities in Texas: A Python Data Analysis  
@@ -14,3 +14,4 @@ As we approach April, I want to draw attention to the impact of abuse- and negle
 
 
 
+![image](https://github.com/user-attachments/assets/403fafce-f9ce-4b11-8398-e6582462a214)
