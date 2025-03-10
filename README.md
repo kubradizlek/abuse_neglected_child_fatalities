@@ -11,3 +11,9 @@ Every year, April is recognized as National Child Abuse Prevention Month in the 
 The loss of a child is always heartbreaking, but when it happens due to abuse or neglect, it is even more painful because it was preventable. Addressing this issue requires more than just reacting to crises—it demands proactive solutions, stronger community support, and increased awareness to protect children before harm occurs.  
 
 As we approach April, I want to draw attention to the impact of abuse- and neglect-related child fatalities. In this project, I aim to provide a data-driven overview of child fatalities due to abuse and neglect in Texas between 2015 and 2024. By analyzing these numbers, I hope to raise awareness and contribute to discussions on improving child safety and prevention strategies.  
+
+## Data Source  
+
+The data for this analysis comes from the Texas Open Data Portal, It provides information on child fatalities in Texas from 2015 to 2024 that are linked to abuse and neglect. The dataset includes key details such as fiscal year, county, region, program involvement, demographics, and fatality counts.  
+
+The original dataset can be accessed **[here](https://data.texas.gov/dataset/OCS-1-1-Abuse-Neglect-Related-Texas-Child-Fataliti/92um-beyd/about_data)**.  
