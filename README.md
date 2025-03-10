@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f41604a4-17d0-4447-94da-1c981f560ef2)
-![image](https://github.com/user-attachments/assets/da2f98c5-657e-46c0-8a43-8203c2c30c08)
 ![image](https://github.com/user-attachments/assets/403fafce-f9ce-4b11-8398-e6582462a214)
 
 
@@ -14,4 +12,4 @@ The loss of a child is always heartbreaking, but when it happens due to abuse or
 As we approach April, I want to draw attention to the impact of abuse- and neglect-related child fatalities. In this project, I aim to provide a data-driven overview of child fatalities due to abuse and neglect in Texas between 2015 and 2024. By analyzing these numbers, I hope to raise awareness and contribute to discussions on improving child safety and prevention strategies.  
 
 
-![image](https://github.com/user-attachments/assets/d0a81c3c-ae6d-4884-a58c-9fbe37ee2b2e)
+
