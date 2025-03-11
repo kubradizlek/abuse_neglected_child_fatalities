@@ -201,7 +201,8 @@ plt.show()
 
 To understand which age groups are most affected by abuse-related fatalities, the dataset was grouped by age categories, and the total number of fatalities was calculated for each group. This helps identify the most vulnerable age groups and compare fatality rates across different age categories.
 
-View my notebook with detailed steps here: [3_Age_Group_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/3_Age_Group_Analysis.ipynb)
+View my notebook with detailed steps here: [4_Age_Group_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/4.Age_Group_Analysis.ipynb)
+
 
 
 ### Visualizing the Data  
