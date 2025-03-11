@@ -125,7 +125,7 @@ plt.show()
 
 To examine how child fatalities due to abuse and neglect vary across different regions in Texas, I grouped the data by region and calculated the total number of fatalities for each. This approach provides a clearer view of which regions have higher reported fatalities, helping to identify potential patterns or disparities. Visualizing the data with a bar chart allows for easy comparison across regions, highlighting areas with the most significant concerns.
 
-View my notebook with detailed steps here: [3_Regional_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/3_Regional_Analysis.ipynb)
+View my notebook with detailed steps here: [3.County_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/3.County_Analysis.ipynb)
 
 ### Visualizing the Data  
 
