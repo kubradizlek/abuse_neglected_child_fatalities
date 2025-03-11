@@ -236,19 +236,15 @@ plt.show()
 
 
 
+
+
 ### Key Insights  
 
+- **Infants (0-1) had the highest number of abuse-related fatalities, exceeding 700 cases.** Their complete dependence on caregivers makes them more vulnerable to severe neglect and fatal physical abuse.Expanding newborn home visit programs and caregiver education on infant safety can help reduce these risks.  
 
-- Arlington and Houston reported the highest number of child fatalities due to abuse and neglect, with over 500 and 450 cases respectively between 2015 and 2024. This may be influenced by their large populations and urban stress factors.  
+- **Toddlers (2-4) also showed a high fatality rate, with over 600 recorded cases.** Increased interaction with caregivers and their inability to communicate or seek help may contribute to higher risks of abuse-related deaths.Promoting affordable early childhood care programs and training professionals to recognize signs of abuse can improve early intervention.  
 
-- Austin and San Antonio also reported significant fatalities, with over 300 and 250 cases respectively. These numbers highlight the need for further investigation into regional factors, such as socioeconomic conditions and availability of child welfare services.  
-
-- El Paso had the lowest reported fatalities, with fewer than 50 cases. While this could indicate strong intervention programs, differences in reporting accuracy across regions should also be considered.
-
-
-
-
-
+- **Fatalities decline as children get older, with teenagers (15-17) having the lowest numbers.** Older children may be more capable of escaping harmful environments or reporting abuse, reducing the likelihood of fatal outcomes.Strengthening school-based support systems and mental health resources can ensure that children in distress receive timely help.  
 
 
 
