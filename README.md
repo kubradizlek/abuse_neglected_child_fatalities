@@ -81,8 +81,12 @@ plt.ylabel('Total Fatalities')
 plt.title('Trends in Child Fatalities Due to Abuse and Neglect (Texas, FY2015-FY2024)')
 plt.grid(True)
 plt.show()
+```
 
-![Time Series Trend](https://github.com/user-attachments/assets/018a0586-5ee3-43f1-b0bc-4b6518400b75)
+### Results 
+
+![image](https://github.com/user-attachments/assets/116a5554-b51d-4283-ad54-b365ade1cd10)
+
 
 
 
