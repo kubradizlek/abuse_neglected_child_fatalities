@@ -249,3 +249,57 @@ plt.show()
 
 
 
+### 4.What is the distribution of abuse-related child fatalities by gender?
+
+
+
+To understand the distribution of child fatalities due to abuse and neglect across genders, I calculated the percentage of fatalities for each gender and visualized the results using a pie chart. This helps in identifying any disparities and provides insights into whether one gender is disproportionately affected.
+
+View my notebook with detailed steps here: [5.Gender_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/5.Gender_Analysis.ipynb)
+
+
+
+
+### Visualizing the Data  
+
+```python
+# Define labels and values
+labels = gender_fatalities["Gender"]
+sizes = gender_fatalities["Percentage"]
+
+# Set figure size
+plt.figure(figsize=(7, 7))
+
+# Create Pie Chart
+plt.pie(sizes, labels=labels, autopct='%1.1f%%', colors=["#66b3ff", "#1f77b4", "#d3d3d3"], startangle=140, wedgeprops={"edgecolor": "black"})
+
+# Add title
+plt.title("Percentage Distribution of Abuse- and Neglect-Related Child Fatalities by Gender")
+
+# Show the plot
+plt.show()
+
+```
+
+### Results 
+
+![image](https://github.com/user-attachments/assets/7e644439-4fc6-4116-9a75-1cc28e074e4a)
+
+
+
+
+
+### Key Insights  
+
+- Infants (0-1) had the highest number of abuse-related fatalities, exceeding 700 cases.Their complete dependence on caregivers makes them more vulnerable to severe neglect and fatal physical abuse.Expanding newborn home visit programs and caregiver education on infant safety can help reduce these risks.  
+
+- Toddlers (2-4) also showed a high fatality rate, with over 600 recorded cases.Increased interaction with caregivers and their inability to communicate or seek help may contribute to higher risks of abuse-related deaths.Promoting affordable early childhood care programs and training professionals to recognize signs of abuse can improve early intervention.  
+
+- Fatalities decline as children get older, with teenagers (15-17) having the lowest numbers.Older children may be more capable of escaping harmful environments or reporting abuse, reducing the likelihood of fatal outcomes.Strengthening school-based support systems and mental health resources can ensure that children in distress receive timely help.  
+
+
+
+
+
+
+
