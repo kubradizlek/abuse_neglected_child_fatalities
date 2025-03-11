@@ -82,4 +82,7 @@ plt.title('Trends in Child Fatalities Due to Abuse and Neglect (Texas, FY2015-FY
 plt.grid(True)
 plt.show()
 
+![Time Series Trend](https://github.com/user-attachments/assets/018a0586-5ee3-43f1-b0bc-4b6518400b75)
+
+
 
