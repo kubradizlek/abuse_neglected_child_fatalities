@@ -70,7 +70,7 @@ To analyze trends in child fatalities over time, I aggregated the number of fata
 
 View my notebook with detailed steps here: **[2_Time_Series_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/2_Time_Series_Analysis.ipynb)**  
 
-### ** Visualizing the Data**  
+### Visualizing the Data  
 
 ```python
 # Plot Time Series Trend
