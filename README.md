@@ -297,7 +297,8 @@ plt.show()
 
 -Child protection programs should consider gender-specific risk factors and provide targeted awareness campaigns for caregivers, emphasizing alternative discipline methods and early intervention.
 
+## Conclusion
 
+This project aimed to shed light on child fatalities due to abuse and neglect in Texas from 2015 to 2024. Through data analysis and visualization, several key patterns emerged. Child fatalities fluctuated over the years, with noticeable peaks in 2020, possibly influenced by external factors such as the COVID-19 pandemic and increased family stress. Certain regions, like Arlington, Houston, and Austin, had significantly higher fatality rates, indicating the need for localized intervention strategies. Infants (0-1) and toddlers (2-4) were the most affected age groups, emphasizing the importance of early childhood protection measures. Males accounted for a larger share of fatalities, suggesting potential differences in risk exposure or response to abuse.
 
-
-
+While numbers tell a stark reality, they also serve as a call to action. This analysis underscores the urgent need for stronger child protection policies, increased awareness, and better support systems for at-risk children. By leveraging data, we can identify high-risk groups, allocate resources more effectively, and ultimately work toward preventing these tragedies before they happen.
