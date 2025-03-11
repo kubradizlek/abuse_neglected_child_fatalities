@@ -283,8 +283,7 @@ plt.show()
 ```
 
 ### Results 
-
-![image](https://github.com/user-attachments/assets/7e644439-4fc6-4116-9a75-1cc28e074e4a)
+![image](https://github.com/user-attachments/assets/5078cfa3-2f4a-4866-b1af-3c67a26fb66f)
 
 
 
@@ -292,13 +291,8 @@ plt.show()
 
 ### Key Insights  
 
-- Infants (0-1) had the highest number of abuse-related fatalities, exceeding 700 cases.Their complete dependence on caregivers makes them more vulnerable to severe neglect and fatal physical abuse.Expanding newborn home visit programs and caregiver education on infant safety can help reduce these risks.  
-
-- Toddlers (2-4) also showed a high fatality rate, with over 600 recorded cases.Increased interaction with caregivers and their inability to communicate or seek help may contribute to higher risks of abuse-related deaths.Promoting affordable early childhood care programs and training professionals to recognize signs of abuse can improve early intervention.  
-
-- Fatalities decline as children get older, with teenagers (15-17) having the lowest numbers.Older children may be more capable of escaping harmful environments or reporting abuse, reducing the likelihood of fatal outcomes.Strengthening school-based support systems and mental health resources can ensure that children in distress receive timely help.  
-
-
+-Males account for nearly 60% of abuse- and neglect-related child fatalities, which aligns with studies suggesting that boys may be more vulnerable to severe abuse due to societal norms around discipline and independence.
+-Child protection programs should consider gender-specific risk factors and provide targeted awareness campaigns for caregivers, emphasizing alternative discipline methods and early intervention.
 
 
 
