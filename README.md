@@ -159,12 +159,12 @@ plt.show()
 
 ### Key Insights  
 
-- A significant spike in fatalities occurred in 2020, which may be linked to the **COVID-19 lockdowns**. During this period, **families faced increased stress, economic hardships, and isolation**, which could have led to a rise in abuse and neglect cases. With schools and other social structures closed, many children had **reduced access to mandatory reporters like teachers and social workers**, delaying intervention.  
 
-- The overall trend shows fluctuations, with some years experiencing sharp increases. This could be influenced by **policy changes, economic instability, or improvements in reporting systems**. Understanding these variations is essential for **developing targeted intervention strategies**.  
+- Arlington and Houston reported the highest number of child fatalities due to abuse and neglect, with over 500 and 450 cases respectively between 2015 and 2024. This may be influenced by their large populations and urban stress factors.  
 
-- **Recent years (2022-2024) show a decline in fatalities**, which may indicate **better prevention measures, increased awareness, or changes in reporting standards**. However, further analysis is needed to determine whether this decrease reflects actual improvements in child safety or shifts in how cases are recorded.  
+- Austin and San Antonio also reported significant fatalities, with over 300 and 250 cases respectively. These numbers highlight the need for further investigation into regional factors, such as socioeconomic conditions and availability of child welfare services.  
 
+- El Paso had the lowest reported fatalities, with fewer than 50 cases. While this could indicate strong intervention programs, differences in reporting accuracy across regions should also be considered.
 
 
 
