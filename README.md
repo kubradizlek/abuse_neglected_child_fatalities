@@ -89,7 +89,7 @@ plt.show()
 
 ### 📌 Key Insights  
 
-- A significant spike in fatalities occurred in 2020**, which may be linked to the **COVID-19 lockdowns**. During this period, **families faced increased stress, economic hardships, and isolation**, which could have led to a rise in abuse and neglect cases. With schools and other social structures closed, many children had **reduced access to mandatory reporters like teachers and social workers**, delaying intervention.  
+- A significant spike in fatalities occurred in 2020, which may be linked to the **COVID-19 lockdowns**. During this period, **families faced increased stress, economic hardships, and isolation**, which could have led to a rise in abuse and neglect cases. With schools and other social structures closed, many children had **reduced access to mandatory reporters like teachers and social workers**, delaying intervention.  
 
 - The overall trend shows fluctuations, with some years experiencing sharp increases. This could be influenced by **policy changes, economic instability, or improvements in reporting systems**. Understanding these variations is essential for **developing targeted intervention strategies**.  
 
