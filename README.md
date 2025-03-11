@@ -24,10 +24,10 @@ The original dataset can be accessed **[here](https://data.texas.gov/dataset/OCS
 
 Below are the questions I want to answer in my project:
 
-1. What are the skills most in demand for the top 3 most popular data roles?
-2. How are in-demand skills trending for Data Analysts?
-3. How well do jobs and skills pay for Data Analysts?
-4. What are the optimal skills for data analysts to learn? (High Demand AND High Paying) 
+1.What is the distribution of abuse- and neglect-related child fatalities over time?
+2.How do abuse- and neglect-related child fatalities vary across different regions in Texas?
+3.Which age groups are most affected by abuse-related fatalities?
+4.What is the distribution of abuse-related child fatalities by gender?
 
 ## Tools I Used
 
