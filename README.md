@@ -165,6 +165,88 @@ plt.show()
 - Austin and San Antonio also reported significant fatalities, with over 300 and 250 cases respectively. These numbers highlight the need for further investigation into regional factors, such as socioeconomic conditions and availability of child welfare services.  
 
 - El Paso had the lowest reported fatalities, with fewer than 50 cases. While this could indicate strong intervention programs, differences in reporting accuracy across regions should also be considered.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 3.Which age groups are most affected by abuse-related fatalities?
+
+
+To understand which age groups are most affected by abuse-related fatalities, the dataset was grouped by age categories, and the total number of fatalities was calculated for each group. This helps identify the most vulnerable age groups and compare fatality rates across different age categories.
+
+View my notebook with detailed steps here: [3_Age_Group_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/3_Age_Group_Analysis.ipynb)
+
+
+### Visualizing the Data  
+
+```python
+# Set figure size
+plt.figure(figsize=(10, 6))
+
+# Create bar chart (Switched X and Y)
+sns.barplot(data=age_group_fatalities, 
+            x="Age Group", 
+            y="Abuse Neglect Fatalities", 
+            palette="Blues_r")
+
+# Add labels and title
+plt.xlabel("Age Group")
+plt.ylabel("Total Fatalities")
+plt.title("Child Fatalities  by Age Group (Texas, FY2015-FY2024)")
+
+# Rotate x-axis labels for better readability
+plt.xticks(rotation=45)
+
+# Show the plot
+plt.show()
+
+```
+
+### Results 
+
+![image](https://github.com/user-attachments/assets/aeb01c22-bab4-4585-b324-eb047224f554)
+
+
+### Key Insights  
+
+
+- Arlington and Houston reported the highest number of child fatalities due to abuse and neglect, with over 500 and 450 cases respectively between 2015 and 2024. This may be influenced by their large populations and urban stress factors.  
+
+- Austin and San Antonio also reported significant fatalities, with over 300 and 250 cases respectively. These numbers highlight the need for further investigation into regional factors, such as socioeconomic conditions and availability of child welfare services.  
+
+- El Paso had the lowest reported fatalities, with fewer than 50 cases. While this could indicate strong intervention programs, differences in reporting accuracy across regions should also be considered.
+
+
+
+
+
 
 
 
