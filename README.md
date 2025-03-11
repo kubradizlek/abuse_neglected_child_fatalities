@@ -87,7 +87,77 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/116a5554-b51d-4283-ad54-b365ade1cd10)
 
-### 📌 Key Insights  
+### Key Insights  
+
+- A significant spike in fatalities occurred in 2020, which may be linked to the **COVID-19 lockdowns**. During this period, **families faced increased stress, economic hardships, and isolation**, which could have led to a rise in abuse and neglect cases. With schools and other social structures closed, many children had **reduced access to mandatory reporters like teachers and social workers**, delaying intervention.  
+
+- The overall trend shows fluctuations, with some years experiencing sharp increases. This could be influenced by **policy changes, economic instability, or improvements in reporting systems**. Understanding these variations is essential for **developing targeted intervention strategies**.  
+
+- **Recent years (2022-2024) show a decline in fatalities**, which may indicate **better prevention measures, increased awareness, or changes in reporting standards**. However, further analysis is needed to determine whether this decrease reflects actual improvements in child safety or shifts in how cases are recorded.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 2.How do child fatalities due to abuse and neglect vary across different regions in Texas?
+
+
+To examine how child fatalities due to abuse and neglect vary across different regions in Texas, I grouped the data by region and calculated the total number of fatalities for each. This approach provides a clearer view of which regions have higher reported fatalities, helping to identify potential patterns or disparities. Visualizing the data with a bar chart allows for easy comparison across regions, highlighting areas with the most significant concerns.
+
+View my notebook with detailed steps here: [3_Regional_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/3_Regional_Analysis.ipynb)
+
+### Visualizing the Data  
+
+```python
+# Set figure size
+plt.figure(figsize=(12, 6))
+
+# Create a bar chart
+sns.barplot(
+    data=fatalities_by_region,
+    x="Total Fatalities",
+    y="Region",
+    palette="Blues_r"
+)
+
+# Add labels and title
+plt.xlabel("Total Fatalities")
+plt.ylabel("Region")
+plt.title("Child Fatalities Due to Abuse and Neglect by Region (Texas, FY2015-FY2024)")
+plt.grid(axis="x", linestyle="--", alpha=0.7)
+
+# Save the figure
+plt.savefig("child_fatalities_by_region.png", dpi=300, bbox_inches='tight')
+
+# Show the plot
+plt.show()
+```
+
+### Results 
+
+![image](https://github.com/user-attachments/assets/aeb01c22-bab4-4585-b324-eb047224f554)
+
+
+### Key Insights  
 
 - A significant spike in fatalities occurred in 2020, which may be linked to the **COVID-19 lockdowns**. During this period, **families faced increased stress, economic hardships, and isolation**, which could have led to a rise in abuse and neglect cases. With schools and other social structures closed, many children had **reduced access to mandatory reporters like teachers and social workers**, delaying intervention.  
 
