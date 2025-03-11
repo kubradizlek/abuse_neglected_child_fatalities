@@ -60,17 +60,17 @@ df=pd.read_csv('/Users/kubra/Desktop/Pyhton/python projects /abuse_neglected_chi
 
 ```
 
-## 📊 The Analysis  
+## The Analysis  
 
 Each Jupyter notebook in this project explores different aspects of abuse- and neglect-related child fatalities in Texas. Here’s how each question was approached:
 
-### 1️⃣ How have abuse- and neglect-related child fatalities changed over time?  
+### 1.How have abuse- and neglect-related child fatalities changed over time?  
 
 To analyze trends in child fatalities over time, I aggregated the number of fatalities per year and visualized the yearly changes. This helps to identify whether fatalities are increasing, decreasing, or showing any patterns that may indicate broader systemic issues.  
 
 View my notebook with detailed steps here: **[2_Time_Series_Analysis.ipynb](https://github.com/kubradizlek/abuse_neglected_child_fatalities/blob/main/2_Time_Series_Analysis.ipynb)**  
 
-### **📊 Visualizing the Data**  
+### ** Visualizing the Data**  
 
 ```python
 # Plot Time Series Trend
