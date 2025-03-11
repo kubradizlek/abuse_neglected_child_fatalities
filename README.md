@@ -240,11 +240,11 @@ plt.show()
 
 ### Key Insights  
 
-- **Infants (0-1) had the highest number of abuse-related fatalities, exceeding 700 cases.** Their complete dependence on caregivers makes them more vulnerable to severe neglect and fatal physical abuse.Expanding newborn home visit programs and caregiver education on infant safety can help reduce these risks.  
+- Infants (0-1) had the highest number of abuse-related fatalities, exceeding 700 cases.Their complete dependence on caregivers makes them more vulnerable to severe neglect and fatal physical abuse.Expanding newborn home visit programs and caregiver education on infant safety can help reduce these risks.  
 
-- **Toddlers (2-4) also showed a high fatality rate, with over 600 recorded cases.** Increased interaction with caregivers and their inability to communicate or seek help may contribute to higher risks of abuse-related deaths.Promoting affordable early childhood care programs and training professionals to recognize signs of abuse can improve early intervention.  
+- Toddlers (2-4) also showed a high fatality rate, with over 600 recorded cases.Increased interaction with caregivers and their inability to communicate or seek help may contribute to higher risks of abuse-related deaths.Promoting affordable early childhood care programs and training professionals to recognize signs of abuse can improve early intervention.  
 
-- **Fatalities decline as children get older, with teenagers (15-17) having the lowest numbers.** Older children may be more capable of escaping harmful environments or reporting abuse, reducing the likelihood of fatal outcomes.Strengthening school-based support systems and mental health resources can ensure that children in distress receive timely help.  
+- Fatalities decline as children get older, with teenagers (15-17) having the lowest numbers.Older children may be more capable of escaping harmful environments or reporting abuse, reducing the likelihood of fatal outcomes.Strengthening school-based support systems and mental health resources can ensure that children in distress receive timely help.  
 
 
 
