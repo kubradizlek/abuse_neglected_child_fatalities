@@ -292,6 +292,7 @@ plt.show()
 ### Key Insights  
 
 -Males account for nearly 60% of abuse- and neglect-related child fatalities, which aligns with studies suggesting that boys may be more vulnerable to severe abuse due to societal norms around discipline and independence.
+
 -Child protection programs should consider gender-specific risk factors and provide targeted awareness campaigns for caregivers, emphasizing alternative discipline methods and early intervention.
 
 
