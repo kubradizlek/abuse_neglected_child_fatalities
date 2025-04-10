@@ -25,9 +25,13 @@ The original dataset can be accessed **[here](https://data.texas.gov/dataset/OCS
 Below are the questions I want to answer in my project:
 
 1.What is the distribution of abuse- and neglect-related child fatalities over time?
+
 2.How do abuse- and neglect-related child fatalities vary across different regions in Texas?
+
 3.Which age groups are most affected by abuse-related fatalities?
+
 4.What is the distribution of abuse-related child fatalities by gender?
+
 
 ## Tools I Used
 
